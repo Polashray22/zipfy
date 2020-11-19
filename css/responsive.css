@@ -1,0 +1,229 @@
+@media (max-width: 1199px){
+	.img-fluid {
+	    max-width: 90%;
+	}
+	.banner-conteant h2 {
+	    font-size: 30px;	   
+	    line-height: 40px;
+	    margin-left: 8px;
+	    padding: 0px 0px;
+	}
+	.banner-conteant ul li {
+	    font-size: 16px;
+	    line-height: 27px;
+	    margin-left: -9px;
+	}
+	.banner-conteant .btn {
+	    padding: 7px 40px;
+	    margin: 7px;
+	}
+	.banner-section {
+	    padding: 70px 0px;
+	}
+	.banner-image .img-fluid {
+	    padding-top: 53px;
+	}
+	.banner-conteant {
+	    padding: 45px 0px 0px 50px;
+	}
+	.business-tex h2 {
+	    font-size: 30px;
+	    margin-bottom: 13px;
+	}
+	.business-tex p {
+	    font-size: 18px;
+	    line-height: 26px;
+	}
+	.business-tex .btn {
+	    padding: 11px 33px;
+	    font-size: 12px;
+	}
+
+    .product-section h2 {
+	    font-size: 30px;
+	}
+	.pages p {
+	    font-size: 17px;
+	    line-height: 23px;
+	    padding: 30px 0px;
+	    margin: 0px 44px;
+	}
+	.pages .btn {
+	    padding: 10px 35px;
+	    font-size: 12px;
+	}
+	.footer-inner h4 {
+	    font-size: 18px;
+	}
+	.footer-inner ul li a {
+	    font-size: 14px;
+	}
+	.copy-right p {
+	    padding: 0px;
+	}
+	.main-footer .social-icon {
+	    padding-left: 163px;
+	}
+	.main-footer .social-icon li {
+	    margin: 0px 10px;
+	}
+	.footer-inner ul li {
+	    margin: 16px 0px;
+	}
+
+}
+@media (max-width: 991px){
+	.banner-conteant h2 {
+	    font-size: 22px;
+	    line-height: 32px;
+	}
+	.banner-image {
+    width: 400px;
+}
+	.banner-conteant ul li {
+	    font-size: 14px;
+	    line-height: 22px;
+	}
+	.banner-conteant .btn {
+	    padding: 7px 30px;
+	    margin: 7px;
+	}
+	
+	.banner-section {
+	    padding: 60px 0px;
+	}
+	.banner-conteant .btn {
+	    padding: 7px 23px;
+	    margin: 7px;
+	    font-size: 14px;
+	    font-weight: 700;
+	}
+	.business-tex h2 {
+	    font-size: 24px;
+	    margin-bottom: 12px;
+	}
+	.business-tex p {
+	    font-size: 17px;
+	    line-height: 23px;
+	}
+	.business-tex .btn {
+	    padding: 10px 28px;
+	    font-size: 11px;
+	}
+	.business-section {
+	    padding: 60px 0px;
+	}
+	.product-section h2 {
+	    font-size: 28px;
+	}
+	.product-section {
+	    padding: 40px 0px;
+	}
+	.pages p {
+	    font-size: 16px;
+	    line-height: 22px;
+	    padding: 15px 0px;
+	    margin: 0px 32px;
+	}
+	.pages .btn {
+	    padding: 8px 30px;
+	    font-size: 11px;
+	}
+	.footer-inner h4 {
+	    font-size: 16px;
+	}
+	.footer-inner ul li {
+	    margin: 10px 0px;
+	}
+	.copy-right p {
+	    font-size: 12px;
+	}
+	.main-footer .social-icon {
+	    padding-left: 82px;
+	    margin-top: -36px;
+	}
+	.copy-right {
+	    margin-top: -24px;
+	}
+	.main-footer .social-icon li a {
+	    font-size: 21px;
+	}
+	
+	.banner-image .img-fluid {
+	    padding-top: 30px;
+	}
+	.img-fluid {
+	    max-width: 100%;
+	}
+	.banner-conteant h2 {
+	    font-size: 34px;
+	    line-height: 50px;
+	    padding: 3px 0px;
+	}
+	.banner-conteant ul li {
+	    font-size: 18px;
+	    line-height: 29px;
+	}
+	.banner-conteant .btn {
+	    padding: 10px 30px;
+	    margin: 9px;
+	    font-size: 14px;
+	    font-weight: 700;
+	}
+	.business-tex p {
+	    font-size: 15px;
+	    line-height: 22px;
+	}
+	.business-section {
+	    padding: 45px 0px;
+	}
+	.product-section h2 {
+	    font-size: 26px;
+	}
+	.pages p {
+	    font-size: 20px;
+	    line-height: 28px;
+	    padding: 17px 0px;
+	    margin: 0px 45px;
+	}
+	.pages .btn {
+	    padding: 10px 34px;
+	    font-size: 13px;
+	}
+	.footer-inner h4 {
+	    font-size: 15px;
+	}
+	.footer-inner ul li a {
+	    font-size: 13px;
+	}
+	.footer-inner ul li {
+	    margin: 5px 0px;
+	}
+	.main-footer .social-icon {
+	    padding-left: 58px;
+	    margin-top: -33px;
+	}
+	.main-footer .social-icon li a {
+	    font-size: 17px;
+	}
+
+}
+@media (max-width: 767px){
+	.banner-image {
+	    width: 369px;
+	}
+    .col-sm-3 {
+	    width: 50%;
+	    padding: 10px;
+	}
+	.main-footer .col-sm-6{
+		width: 50%;
+		padding: 10px
+	}
+}
+@media (max-width: 575px){
+	
+}
+@media (max-width: 400px){
+	
+}
